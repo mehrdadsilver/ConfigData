@@ -1,3 +1,4 @@
 ---
 wordConfig:
-  luckyWord:United states of america
+  preamble: The lucky word is
+  luckyWord: Irish
